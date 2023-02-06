@@ -24,6 +24,6 @@ mv -f /tmp/linux-site-dio-main/* /var/www/html
 
 echo ".........Apagando aquivos que não são necessários........."
 
-rm -rf /tmp/*
+rm -rf /tmp/main.zip
 
 echo ".........Ambiente pronto para produção........."
